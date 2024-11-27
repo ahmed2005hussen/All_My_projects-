@@ -20,9 +20,6 @@ A substitution cipher program to encode or decode messages using a custom key.
    - **3**: Exit the program.
 3. Enter the required input as prompted (sentence and a key of 5 unique letters).
 
-![Cipher GIF](https://media.giphy.com/media/v1-YOUR_LINK_HERE)  
-> Placeholder for GIF showing how the program runs.
-
 ---
 
 ## **2. Number Scrabble (Python)**
@@ -40,15 +37,8 @@ A fun two-player game where each player selects numbers from 1 to 9, trying to s
 2. Players take turns entering numbers from the displayed list.
 3. The game announces the winner or ends in a draw.
 
-![Number Scrabble GIF](https://media.giphy.com/media/v1-YOUR_LINK_HERE)  
-> Placeholder for GIF showing gameplay.
+
 
 ---
 
-## **How to Run the Games**
 
-### **For the Cipher Program (C++):**
-1. Ensure you have a C++ compiler installed (e.g., GCC, Visual Studio).
-2. Compile the code:
-   ```bash
-   g++ -o cipher SimpleSubstitutionCipher.cpp
